@@ -14,3 +14,8 @@
 4. Run "php artisan ui vue --auth" to add vue scafolding with auth feature
 5. Setup your database
 6. Run "php artisan migrate"
+7. Run "npm install && npm run dev"
+8. Run "npm install vue-router vue-axios"
+router for handling SPA (single page application) and axios for handle REST API
+9. Run "npm run watch"
+10. In different CLI tab (same directory), run "php artisan serve"
