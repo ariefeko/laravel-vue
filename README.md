@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Installing
+## Installing this repo
 1. Clone this repo
 2. Run "composer install"
 3. Run "composer require laravel/ui"
